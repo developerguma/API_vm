@@ -43,9 +43,6 @@ class Servicio_controllers extends CI_Controller {
     {
         $this->servicios_model->MvtsCliente();
     }
-    public function MvtsTotales()
-    {
-        $this->servicios_model->MvtsTotales();
-    }
+   
 
 }

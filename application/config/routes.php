@@ -11,9 +11,9 @@ $route['vtsArticulos'] = 'Servicio_controllers/vtsArticulos';
 $route['vtsCliente'] = 'Servicio_controllers/vtsCliente';
 $route['vtsTotales'] = 'Servicio_controllers/vtsTotales';
 $route['MvstCLA'] = 'Servicio_controllers/MvstCLA';
+
 $route['MvtsArticulos'] = 'Servicio_controllers/MvtsArticulos';
 $route['MvtsCliente'] = 'Servicio_controllers/MvtsCliente';
-$route['MvtsTotales'] = 'Servicio_controllers/MvtsTotales';
 
 
 
